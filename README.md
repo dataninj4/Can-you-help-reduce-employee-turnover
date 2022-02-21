@@ -9,4 +9,4 @@ The team needs to better understand the situation and identify which employees a
  ## How it is done
 We explore the dataset with Exploratory Data Analysis and infer which variables are related to employees leaving the company in various stages of their tenure. We apply statistical tests to find significant variables that need to be interpreted and finally be a foundation for conclusions and recommendations towards lowering employee churn.
 
-![png](/histogramm-variable-'review'-by year-tenure.png)
+![png](/histogramm-variable-review-by-year-tenure.png)
